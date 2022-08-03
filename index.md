@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+<title> Examples Page </title>
+</head>
+<!-- tag a) Correct HTML structure tags-->
 
-You can use the [editor on GitHub](https://github.com/spencerca/examples.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body bgcolor="lightcyan">
+<!-- tag e): tag or tag attributes that display a background image or color (image)-->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center>
+<h1>Cyberbullying Examples Page</h1>
+<!-- tag h) Two different size heading tags (one)-->
+<!-- tag b) A comment tag-->
 
-### Markdown
+<h2>University of South Florida</h2>
+<!-- tag h) Two different size heading tags (two)-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>By Spencer Carman (EME 4390)</h3>
 
-```markdown
-Syntax highlighted code block
+<hr color="green"width=33.3%">
+<!-- tag g) A tag that displays a colored horizontal line-->
 
-# Header 1
-## Header 2
-### Header 3
+<hr color="green"width=50%">
+<!-- tag g) A tag that displays a colored horizontal line-->
 
-- Bulleted
-- List
+<img src="EXAMPLE.JPG"width="350"height="350">
+<!-- tag d) At least 2 image tags (one)-->
 
-1. Numbered
-2. List
+<h3>Attached below are some examples of cyberbullying shown on Youtube:</h3>
+<a href="https://www.bing.com/videos/search?q=cyber+bullying&docid=608040483312635374&mid=77AFD6269497C24C23A777AFD6269497C24C23A7&view=detail&FORM=VIRE">How to Beat Cyberbullies</a>
+<br>
+<a href="https://www.bing.com/videos/search?q=cyber+bullying&docid=608046182740220376&mid=01BD4CE3EF3E2D5ACA9101BD4CE3EF3E2D5ACA91&view=detail&FORM=VIRE">Cyber-bullying Facts – Top 10 Forms of Cyber Bullying</a>
+<br>
+<a href="https://www.youtube.com/watch?v=GuO8OeLe3bY&ab_channel=Pfizer">Cyberbullying: What It Is, The Effects It Can Have On Teens, And Signs To Watch For</a>
+<br>
+<a href="https://www.youtube.com/watch?v=oANkCRQjP0I&ab_channel=CBSEveningNews">Middle schoolers arrested in cyber bullying suicide of classmate - YouTube</a>
+<br>
+</ol>
+<!-- tag f)Tags that create a useful ordered list with three items-->
 
-**Bold** and _Italic_ and `Code` text
+</center>
+<hr color="green"width=50%">
+<!-- tag g) A tag that displays a colored horizontal line-->
 
-[Link](url) and ![Image](src)
-```
+<hr color="green"width=33.3%">
+<!-- tag g) A tag that displays a colored horizontal line-->
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<center>
 
-### Jekyll Themes
+<a href="Homepage.html">Return to home</a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spencerca/examples.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</center>
+</body>
+</head>
