@@ -48,7 +48,7 @@
 
 <center>
 
-<a href="spencerca.github.io">Return to home</a>
+<a href="https://spencerca.github.io/">Return to home</a>
 
 
 </center>
